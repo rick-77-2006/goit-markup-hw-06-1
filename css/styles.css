@@ -381,7 +381,6 @@ img {
   font-weight: 700;
   line-height: 16px;
   text-transform: uppercase;
-
   color: var(--main-text-color);
   background: rgba(47, 48, 58, 0.8);
 }
