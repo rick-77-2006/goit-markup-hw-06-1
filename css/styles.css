@@ -1139,6 +1139,7 @@ img {
 .diagram::before {
   background-image: url(../img/diagram.svg);
 }
+
 .astronaut::before {
   background-image: url(../img/astronaut.svg);
 }
