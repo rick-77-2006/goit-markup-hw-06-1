@@ -1131,6 +1131,7 @@ img {
 .antenna::before {
   background-image: url(../img/antenna.svg);
 }
+
 .clock::before {
   background-image: url(../img/clock.svg);
 }
