@@ -1127,6 +1127,7 @@ img {
   letter-spacing: var(--main-letter-spacing);
   font-size: 14px;
 }
+
 .antenna::before {
   background-image: url(../img/antenna.svg);
 }
