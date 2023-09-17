@@ -1105,6 +1105,7 @@ img {
   background-repeat: no-repeat;
   background-position: center;
 }
+
 .features-list-li:not(:last-child) {
   margin-right: 30px;
 }
