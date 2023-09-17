@@ -1135,6 +1135,7 @@ img {
 .clock::before {
   background-image: url(../img/clock.svg);
 }
+
 .diagram::before {
   background-image: url(../img/diagram.svg);
 }
