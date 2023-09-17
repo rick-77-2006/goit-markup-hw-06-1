@@ -597,7 +597,6 @@ img {
   letter-spacing: 0.02em;
   color: var(--footer-text-color);
   font-style: normal;
-
   /* transition-property: color; */
   transition-property: fill;
   transition-duration: 250ms;
