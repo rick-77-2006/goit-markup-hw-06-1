@@ -1087,6 +1087,7 @@ img {
   display: flex;
   flex-direction: row;
 }
+
 .features-list-li {
   display: block;
 }
