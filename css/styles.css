@@ -1109,6 +1109,7 @@ img {
 .features-list-li:not(:last-child) {
   margin-right: 30px;
 }
+
 .features-item {
   font-size: 14px;
   font-weight: 700;
