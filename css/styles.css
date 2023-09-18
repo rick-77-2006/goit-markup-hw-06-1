@@ -601,7 +601,7 @@ img {
   line-height: 1.7;
   color: var(--footer-text-color);
   font-style: normal;
-  /* transition-property: color; */
+
   transition-property: fill;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
